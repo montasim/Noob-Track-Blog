@@ -1,0 +1,16 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/noobtrack",
+        "production_uri": "mysql://root:@localhost/noobtrack",
+        "twitter_url": "https://twitter.com/montasimmamun",
+        "facebook_url": "https://www.facebook.com/montasimmamun/",
+        "github_url": "https://github.com/montasimmamun",
+        "blog_name": "Noob Track",
+        "blog_title": "A Blog For Coder",
+        "gmail_username": "montasim.backup@gmail.com",
+        "gmail_password": "zrh8Hw77riiSlB35ZmVHd"
+    }
+
+}
